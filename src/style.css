@@ -60,4 +60,6 @@
   }
   body{
     background-color:black;
-  } /*style the html body element*/
+    color:green;
+    font-family:monospace;
+  } /*Inherit Styles from the Body Element*/
