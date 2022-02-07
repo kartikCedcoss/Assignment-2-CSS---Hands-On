@@ -70,5 +70,5 @@
       color:blue;
   }/*Override Styles in Subsequent CSS*/
   #orange-text{
-      color:orange;
+      color:orange; /*Override Class Declarations by Styling ID Attributes*/
   }
