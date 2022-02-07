@@ -64,7 +64,7 @@
     font-family:monospace;
   } 
   .pink-text{
-    color:pink;
+    color:pink !important; /*Override All Other Styles by using Important*/
   }
   .blue-text{
       color:blue;
