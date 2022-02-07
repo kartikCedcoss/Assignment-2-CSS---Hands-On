@@ -114,6 +114,7 @@
 
     /* Only change code below this line */
     --penguin-skin: gray; /*Create a custom CSS Variable*/
+    --penguin-belly:white; /*Change a variable for a specific area*/
     
     /* Only change code above this line */
 
