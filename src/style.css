@@ -1,3 +1,7 @@
+[type='checkbox']{
+    margin-top:10px;
+    margin-bottom:15px;
+  }/*Use Attribute Selectors to Style Elements*/
 .red-text {
     color: red;
   }
@@ -52,4 +56,4 @@
     background-color: blue;
     color: #fff;
     margin:40px 20px 20px 40px;
-  } /*Use Clockwise Notation to Specify the Margin of an Element*/
+  }
