@@ -103,6 +103,13 @@
   .blue-text {
     color: rgb(0,0,255);
   } /*Use RGB to Mix Colors*/
+  
+  :root {
+    /* Only change code below this line */
+   --penguin-belly:pink;                         /*Inherit CSS Variables*/
+    /* Only change code above this line */
+  }
+
   .penguin {
 
     /* Only change code below this line */
