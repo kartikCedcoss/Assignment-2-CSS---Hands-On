@@ -65,4 +65,7 @@
   } 
   .pink-text{
     color:pink;
-  }/*Prioritize One Style Over Another*/
+  }
+  .blue-text{
+      color:blue;
+  }/*Override Styles in Subsequent CSS*/
