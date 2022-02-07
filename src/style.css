@@ -72,3 +72,15 @@
   #orange-text{
       color:orange; /*Override Class Declarations by Styling ID Attributes*/
   }
+  .red-text {
+    color: #ff0000;
+  }
+  .green-text {
+    color: #00ff00;
+  }
+  .dodger-blue-text {
+    color: #1e90ff;
+  }
+  .orange-text {
+    color: #ffa500;
+  }
