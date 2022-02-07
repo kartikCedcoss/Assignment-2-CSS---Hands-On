@@ -277,3 +277,12 @@
   .penguin * {
     position: absolute;
   }  /*Use CSS Variables to change several elements at once*/
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background:red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }/*Improve Compatibility with Browser Fallbacks*/
