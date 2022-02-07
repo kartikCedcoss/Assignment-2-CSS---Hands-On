@@ -104,12 +104,14 @@
     color: rgb(0,0,255);
   } /*Use RGB to Mix Colors*/
   
-  :root {
-    /* Only change code below this line */
-   --penguin-belly:pink;                         /*Inherit CSS Variables*/
-    /* Only change code above this line */
+  @media (max-width: 350px) {
+    :root {
+      /* Only change code below this line */
+--penguin-size:200px;                                /*Use a media query to change a variable*/
+--penguin-skin:black;
+      /* Only change code above this line */
+    }
   }
-
   .penguin {
 
     /* Only change code below this line */
