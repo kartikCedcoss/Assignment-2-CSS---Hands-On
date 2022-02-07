@@ -62,4 +62,7 @@
     background-color:black;
     color:green;
     font-family:monospace;
-  } /*Inherit Styles from the Body Element*/
+  } 
+  .pink-text{
+    color:pink;
+  }/*Prioritize One Style Over Another*/
